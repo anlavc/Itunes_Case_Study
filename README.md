@@ -24,6 +24,7 @@ Additional Info:
   GET https://developer.apple.com/library/archive/documentation/AudioV ideo/Conceptual/iTuneSearchAPI/
 ```
 
+## Used technologies
 
  * UIKit
  * MVVM architecture
